@@ -25,6 +25,7 @@ public class Test1 extends HttpServlet {
 	
 	public void destroy() {
 		System.out.println("in destroy of  "+getClass()+"invoked by "+Thread.currentThread());
+System.out.println("");
 	}
 
 	
