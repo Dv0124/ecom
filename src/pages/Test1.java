@@ -35,6 +35,9 @@ System.out.println("");
 		try(PrintWriter pw= response.getWriter())
 		{
 			pw.print("<h1> Hello from servlets lab  "+LocalTime.now()+"<h1>");
+			
+			System.out.printl("Hello from dhananjay");
+			System.out.println("changes");
 		}
 	}
 
