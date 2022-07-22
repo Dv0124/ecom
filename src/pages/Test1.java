@@ -42,6 +42,8 @@ public class Test1 extends HttpServlet {
 		try(PrintWriter pw= response.getWriter())
 		{
 			pw.print("<h1> Hello from servlets lab  "+LocalTime.now()+"<h1>");
+			System.out.println("Hello from dhananjay");
+			System.out.println("changes");
 		}
 	}
 
