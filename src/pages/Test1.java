@@ -38,8 +38,8 @@ System.out.println("");
 			
 			System.out.printl("Hello from dhananjay");
 			System.out.println("changes");
-			System.out.printl("Hello from kanchan");
-			System.out.println("Test changes");
+			//System.out.printl("Hello from kanchan");
+			//System.out.println("Test changes");
 		}
 	}
 
